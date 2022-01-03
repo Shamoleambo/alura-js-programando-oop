@@ -18,4 +18,5 @@ contaCorrente2.cliente = cliente2;
 contaCorrente.depositar(100);
 contaCorrente.transferir(50, contaCorrente2);
 
-console.log(contaCorrente, contaCorrente2);
+// console.log(contaCorrente, contaCorrente2);
+// console.log(contaCorrente.cliente, contaCorrente2.cliente);
